@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <a href="https://shaon-saha-apu.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Shaon%20Saha%20Apu&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Application%20Developer%20%7C%20Android%20%26%20Flutter&descSize=20&descAlignY=58" alt="Shaon Saha Apu" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Shaon%20Saha%20Apu&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Application%20Developer%20%7C%20Android%2C%20Flutter%20and%20KMP&descSize=20&descAlignY=58" alt="Shaon Saha Apu" />
 </a>
 
 <p align="center">
@@ -131,16 +131,7 @@ $ shaon --stack
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Apu009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apu009&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Apu009&theme=tokyonight&hide_border=true" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Apu009&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="trophies" />
+  <img src="https://streak-stats.demolab.com/?user=Apu009&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Apu009&theme=tokyo-night&hide_border=true&area=true&color=0E90D2&line=0E90D2&point=ffffff" alt="activity graph" />
